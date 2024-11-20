@@ -39,5 +39,3 @@ import { increment } from '../redux/actions';
             </div>
         );
     }
-
-    // Arreglando errores del git 7

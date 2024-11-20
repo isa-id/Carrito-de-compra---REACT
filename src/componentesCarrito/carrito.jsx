@@ -33,5 +33,3 @@ export function CarritoInfo({ id, nombreProd, precioProd, quantity }) {
     }
     
 }
-
-  // Arreglando errores del git 7

@@ -30,5 +30,3 @@ export function Carrito() {
         </>
     );
 }
-
-  // Arreglando errores del git 7
