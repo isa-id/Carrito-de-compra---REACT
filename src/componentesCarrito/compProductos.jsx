@@ -54,4 +54,4 @@ export function Productos() {
     );
 }
 
-  // Arreglando errores del git 6
+  // Arreglando errores del git 7
