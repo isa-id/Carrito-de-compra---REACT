@@ -31,4 +31,4 @@ export function Carrito() {
     );
 }
 
-  // Arreglando errores del git
+  // Arreglando errores del git 2
