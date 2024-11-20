@@ -40,4 +40,4 @@ import { increment } from '../redux/actions';
         );
     }
 
-    // Arreglando errores del git 4
+    // Arreglando errores del git 5
